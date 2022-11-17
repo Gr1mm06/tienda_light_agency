@@ -1,0 +1,1 @@
+ALTER TABLE accesorios ADD COLUMN visitas INT(11) DEFAULT 0;
